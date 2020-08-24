@@ -1,0 +1,92 @@
+.hd{
+	background-color: #242321;
+}
+
+.crop{
+	height: 200px;
+	width: 200px;
+	margin: auto;
+	margin-top: 5px;
+}
+
+.txt{
+	color: white;
+	font-family: 'Bangers', cursive;
+	font-size: 50px;
+	letter-spacing: 15px;
+	margin-left: 55px;
+}
+
+.txt1{
+	color: white;
+	font-family: 'Bangers', cursive;
+	font-size: 20px;
+	letter-spacing: 5px;	
+}
+
+.crd{
+	margin: auto;
+	margin-top: 40px;
+}
+
+.crdhead{
+	background-color: #001f5c;
+}
+
+.crdtxt{
+	color: white;
+}
+
+.ft{
+	background-color: #242321;
+	color: white;
+}
+
+.ft1{
+	text-align: center;
+}
+.ft2{
+	text-align: center;
+}
+
+.ft3{
+	text-align: left;
+}
+
+.ft2{
+
+}
+
+.ft3{
+
+}
+.ttlText{
+	text-align: left;
+}
+.ttlImg{
+	text-align: right;
+}
+
+@media (max-width: 800px) {
+    .ft1,
+    .ft2,
+    .ft3,
+    .ttlImg,
+    .ttlText
+
+     {
+        text-align: center;
+    }
+}
+
+.sptxt{
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+.nrmtxt{
+	font-family: 'Baloo Tamma 2', cursive;
+}
+
+.ntxt{
+	font-family: 'Roboto Slab', serif;
+}
